@@ -1,4 +1,4 @@
-# Network Infrastructure Design — Wireless, RF & MPLS Backbone — Engineering Guide
+# Network Engineering — Independent Implementations
 
 Designed and validated multi-site network infrastructure, from wireless access and RF links to a carrier-grade MPLS backbone, using MikroTik, Ubiquiti, Cisco, RF planning, and GNS3.
 
@@ -59,3 +59,13 @@ The following are suggested review checks. A checklist entry is not a claimed pa
 *Network Infrastructure Design — MPLS Backbone (GNS3): existing LinkedIn experience media, exported from the media viewer. This is the available preview resolution; it is a source summary sheet/screenshot, not a new measurement.*
 
 Source: [LinkedIn experience media](https://www.linkedin.com/in/mohammed-mahyoub/details/experience/).
+
+## Illustrated project pages
+
+This repository is a source collection for separate implementations. Each project has its own scope, source visual and engineering walkthrough.
+
+- [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/)
+- [Wireless Coverage & Point-to-Point Network Planning](https://mahyoub88.github.io/projects/proj-wireless-coverage/)
+- [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)

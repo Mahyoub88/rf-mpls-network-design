@@ -1,4 +1,4 @@
-# Network Infrastructure Design — Wireless, RF & MPLS Backbone
+# Network Engineering — Independent Implementations
 
 ## Illustrated engineering guide
 
@@ -30,4 +30,14 @@ Cisco, MikroTik, Ubiquiti, RF Planning, MPLS, OSPF, BGP, VPN, GNS3
 
 ## Links
 
-- [Portfolio project](https://mahyoub88.github.io/#proj-rf-network)
+- [Portfolio project](https://mahyoub88.github.io/projects/proj-rf-network/)
+
+## Illustrated project pages
+
+This repository is a source collection for separate implementations. Each project has its own scope, source visual and engineering walkthrough.
+
+- [Enterprise Wireless & Network Infrastructure Architecture](https://mahyoub88.github.io/projects/proj-enterprise-network/)
+- [Wireless Coverage & Point-to-Point Network Planning](https://mahyoub88.github.io/projects/proj-wireless-coverage/)
+- [Network Infrastructure Design — MPLS Backbone](https://mahyoub88.github.io/projects/proj-mpls-backbone/)
+
+[Browse all engineering case studies](https://mahyoub88.github.io/projects/)
