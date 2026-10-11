@@ -51,3 +51,9 @@ The original topology preview documents the configured network environment. This
 [Full project walkthrough](https://mahyoub88.github.io/projects/proj-mpls-backbone/)
 
 [Verification context and public evidence boundaries](docs/verification-context.md).
+
+- [Enterprise Wireless & Network Infrastructure Architecture — technical walkthrough](docs/technical-walkthroughs/proj-enterprise-network.md)
+
+- [Wireless Coverage & Point-to-Point Network Planning — technical walkthrough](docs/technical-walkthroughs/proj-wireless-coverage.md)
+
+- [Network Infrastructure Design — MPLS Backbone — technical walkthrough](docs/technical-walkthroughs/proj-mpls-backbone.md)
