@@ -12,13 +12,13 @@ Presentation status: Implemented Project.
 
 Preview: Source project media.
 
-## Wireless Coverage & Point-to-Point Network Planning
+## Wireless Link Planning & RF Engineering
 
-[Read case study](https://mahyoub88.github.io/projects/proj-wireless-coverage/)
+[Read case study](https://mahyoub88.github.io/projects/proj-wireless-link-planning/)
 
-Modelled wireless coverage and point-to-point connectivity, considering antenna alignment, capacity requirements and site coverage.
+Historical Atma–Al-Sharq wireless backhaul with coverage planning, Fresnel and RF calculations.
 
-Presentation status: Implemented Project.
+Presentation status: Historical implementation; subsequent RF review. Calculations and simulations are not commissioning measurements.
 
 Preview: Source project media.
 
