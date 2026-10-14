@@ -22,9 +22,9 @@ The source architecture documents how access and site services fit together. Cov
 
 [Full project walkthrough](https://mahyoub88.github.io/projects/proj-enterprise-network/)
 
-### Wireless Coverage & Point-to-Point Network Planning
+### Wireless Link Planning & RF Engineering
 
-Coverage modelling and point-to-point connectivity, considering antenna alignment, capacity and site coverage.
+Historical Atma–Al-Sharq two-hop wireless backhaul with seven-zone distribution, coverage planning and VB.NET RF/Fresnel tools. The published RF calculations are a subsequent engineering review, not commissioning measurements.
 
 ![Wireless Coverage & Point-to-Point Network Planning — original project media](docs/overview/network-coverage.jpg)
 
@@ -34,7 +34,7 @@ Planning combines the coverage view with the radio path and capacity requirement
 
 ![Explanatory workflow — Wireless Coverage & Point-to-Point Network Planning](docs/projects/proj-wireless-coverage/workflow.svg)
 
-[Full project walkthrough](https://mahyoub88.github.io/projects/proj-wireless-coverage/)
+[Full project walkthrough](https://mahyoub88.github.io/projects/proj-wireless-link-planning/)
 
 ### Network Infrastructure Design — MPLS Backbone
 
